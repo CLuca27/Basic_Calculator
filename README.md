@@ -15,7 +15,7 @@ It's written using the C++ programming language.
 ⚠ **WARNING:** In order to open the project, I recommend using the Visual Studio IDE. If you want the source file, it's located in the Calculator folder.
 1. Clone the repository:
    ```sh
-   git clone 
+   git clone https://github.com/CLuca27/Basic_Calculator.git
 2. In the Basic_Calculator folder, open Calculator.sln
-3. In order to perfom any kind of mathematical operation, you can use the already instantiated Calculator object and call the defined methods.(⚠ **This has to be done in the int main() function**)
+3. In order to perform any kind of mathematical operation, you can use the already instantiated Calculator object and call the defined methods.(⚠ **This must be done in the int main() function**)
 
