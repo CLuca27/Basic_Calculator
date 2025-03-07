@@ -1,5 +1,5 @@
 # Basic Calculator
-This is a project that implements the functionality of a basic calculator.
+This is a project that implements the functionality of a pocket calculator.
 
 It's written using the C++ programming language.
 
